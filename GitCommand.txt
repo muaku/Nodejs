@@ -6,5 +6,3 @@
 4. git commit -m "comment"
 5. git push	// push all file to github
 
-/* pull */
-6. git pull
