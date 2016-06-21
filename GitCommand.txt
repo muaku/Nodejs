@@ -1,0 +1,10 @@
+1. git clone 
+2. git status	// to check current status
+3. git add
+	git add .
+	git add -A  // add all file inside dir
+4. git commit -m "comment"
+5. git push	// push all file to github
+
+/* pull */
+6. git pull
